@@ -30,13 +30,13 @@ a:hover {
 }
 /*--header start here--*/
 .banner {
-  background: url(../images/bkg.jpg)no-repeat;
+  background: url(../images/deadpool.png)no-repeat;
   min-height: 790px;
   background-size: cover;
   padding: 0em 0em 0em 0em;
 }
 .bann-two {
-  background: url(../images/bkg.jpg)no-repeat;
+  background: url(../images/deadpool.png)no-repeat;
   min-height: 235px;
   background-size: cover;
 }
@@ -875,7 +875,7 @@ h3.typo1 {
 /*--meadia quries start here--*/
 @media(max-width:1024px){
 .banner {
-  background: url(../images/bkg.jpg)no-repeat;
+  background: url(../images/deadpool.png)no-repeat;
   min-height: 620px;
 }
 .banner-bottom {
